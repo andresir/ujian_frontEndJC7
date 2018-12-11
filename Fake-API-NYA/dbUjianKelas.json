@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Baron",
+      "password": "okebos",
+      "email": "bunting@ngesot.com",
+      "phone": "08918191819"
+    },
+    {
+      "id": 2,
+      "username": "Bernacle",
+      "password": "kesurupan",
+      "email": "kesurupan@bernacle.com",
+      "phone": "0832323219"
+    }
+  ],
+  "popok": [
+    {
+      "nama": "Baron",
+      "merk": "Bronson",
+      "harga": 50000,
+      "img": "https://i.pinimg.com/originals/65/28/a3/6528a3845f7267664c29ed557ab8a9dd.jpg",
+      "description": "Honda Yamaha Mio",
+      "id": 1
+    },
+    {
+      "nama": "MERU",
+      "merk": "Bronson",
+      "harga": 65000,
+      "img": "https://i.pinimg.com/originals/65/28/a3/6528a3845f7267664c29ed557ab8a9dd.jpg",
+      "description": "Wadd daoo...",
+      "id": 2
+    },
+    {
+      "nama": "samson",
+      "merk": "Bronson",
+      "harga": 75000,
+      "img": "https://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "description": "ashttps://pbs.twimg.com/media/Cl4ta3gUgAI1KRi.jpg",
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "username": "Baron",
+      "produkId": "1",
+      "nama": "Baron",
+      "harga": 50000,
+      "img": "https://i.pinimg.com/originals/65/28/a3/6528a3845f7267664c29ed557ab8a9dd.jpg",
+      "merk": "Bronson",
+      "qty": "2",
+      "totalHarga": 100000,
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "username": "Baron",
+      "produkId": "1",
+      "nama": "Baron",
+      "harga": 50000,
+      "img": "https://i.pinimg.com/originals/65/28/a3/6528a3845f7267664c29ed557ab8a9dd.jpg",
+      "merk": "Bronson",
+      "qty": "1",
+      "totalHarga": 50000,
+      "date": "2018-12-11T08:28:54.529Z",
+      "id": 1
+    }
+  ]
+}
